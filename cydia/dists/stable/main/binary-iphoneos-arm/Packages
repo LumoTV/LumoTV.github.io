@@ -1,0 +1,167 @@
+Package: ai.akemi.appsyncunified
+Version: 116.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 636
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 18.2)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, technology.goated.appsync, technology.goated.appsyncunified, vaginalfisting.appsynctool, science.xnu.substitute, akemi.appsink, akemi.appsyncunifed, akemi.appsyncunifed2, akemi.appsyncunifedpatched, appsyncpatched, appsyncrootless, weaponized.autism.technology.appsyncunified, ellekit (< 1.1)
+Replaces: us.hackulo.appsync50, net.angelxwind.appsyncunified
+Provides: appsync, net.angelxwind.appsyncunified
+Filename: ../../../../debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a (1).deb
+Size: 51658
+MD5sum: 536009a11dad57e48a5563224eaffaff
+SHA1: e0fa412cb3c26718887edd834804c88909297079
+SHA256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
+Name: AppSync Unified
+
+Package: com.cokepokes.appstoreplusplus
+Version: 0.10.1-5
+Architecture: iphoneos-arm
+Maintainer: CokePokes
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Filename: ../../../../debs/com.cokepokes.appstoreplusplus_0.10.1-5_iphoneos-arm.deb
+Size: 4636364
+MD5sum: 1439e142bcdec4582b9ac8bccc112e4a
+SHA1: c252051616bade4de9d2ccc3a1ea7e29882488c8
+SHA256: 23bb2021da9b3fdaf5d947490f8ebff5c947d71a6966bf70e43c025c4916c8c7
+Section: Tweaks
+Priority: optional
+Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-15.whatever
+Author: CokePokes
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Icon: https://cokepokes.github.io/depiction/appstoreplus/icon.png
+Name: AppStore++
+
+Package: com.level3tjg.bfdecrypt
+Version: 1.3.5
+Architecture: iphoneos-arm
+Maintainer: level3tjg
+Installed-Size: 372
+Depends: mobilesubstrate, com.opa334.altlist, firmware (>=11.0)
+Filename: ../../../../debs/com.level3tjg.bfdecrypt_1.3.5_iphoneos-arm.deb
+Size: 69260
+MD5sum: f69d0d8560b6d41ef4b892f9ee3d2303
+SHA1: d61a51b145aa95413dd944cddc03b114b12615d6
+SHA256: be84536e22f2e555ece86bde9f000474a3e9809d68534f4410fd9d94477b8aa3
+Section: Tweaks
+Description: bfdecrypt for iOS 11+
+Author: BishopFox
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.bfdecrypt
+Name: bfdecrypt
+
+Package: com.muirey03.flow
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Muirey03
+Installed-Size: 1112
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libmryipc, ws.hbang.common (>= 1.11)
+Conflicts: me.nepeta.nereid, ch.mdaus.sylph, org.s1ris.spinxi
+Filename: ../../../../debs/com.muirey03.flow_1.2.2.deb
+Size: 167764
+MD5sum: b66038b15d079dc92172b0d81760e14b
+SHA1: bb5aa5cea0424f3a8770252ee56886b10b6d637c
+SHA256: 3ae2ffa1897260d3cffa19f44e365073403fd84cfccb056abfbb518159ef81eb
+Section: Tweaks
+Description: Cover Flow like never before!
+Author: Muirey03
+Icon: file:///Library/PreferenceBundles/Flow.bundle/Icon-Large.png
+Name: Flow
+
+Package: cydia.com.ipc.crackerxi
+Version: 1.1.16
+Architecture: iphoneos-arm
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ../../../../debs/crackerxi_1.1.16.deb
+Size: 9960924
+MD5sum: 7363c9289b0041ba3bc8df156b751a9c
+SHA1: 27b8a552befab49a15e78d0cc1d5c5867af3c0fb
+SHA256: 3b835fa95d1d060334929db4ed8b67767c12dba58e8ded8acd0161d44ce974fc
+Section: System
+Description: Decrypts iOS Apps
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+Name: CrackerXI+
+Website: https://ipastore.me
+
+Package: me.minhton.ninels
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: MinhTon <ford.tonthat@gmail.com>
+Installed-Size: 5708
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), org.thebigboss.libcolorpicker, firmware (>= 13.0)
+Conflicts: me.lightmann.vinyl, love.litten.lobelias, me.minhton.nineunlock, me.minhton.ninemusic
+Filename: ../../../../debs/me.minhton.ninels_1.0.1_iphoneos-arm.deb
+Size: 5149496
+MD5sum: 6d35487e9d546157bcce1b8e9ebb7b08
+SHA1: c8c1929f2bd79dc6aef7ce3cf7d2b3b52f22ad08
+SHA256: ea51e8fbb794fcbf1ffd8b8a0faa231f494e528561f82c7484a6d6ed619d7dd3
+Section: Tweaks
+Homepage: https://minh-ton.github.io
+Description: Bring back the iOS 9 Lock Screen!
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.ninels
+Icon: https://minh-ton.github.io/repo/icons/NineLS/Icon.png
+Name: NineLS
+
+Package: me.nepeta.slyd
+Version: 0.2.4
+Architecture: iphoneos-arm
+Maintainer: Nepeta
+Installed-Size: 308
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview
+Filename: ../../../../debs/me.nepeta.slyd_0.2.4_iphoneos-arm.deb
+Size: 18432
+MD5sum: 4cddb11101225b7dcf89277a66c37bab
+SHA1: dd16ec4b69cfa91e56c4b241f4ab9cbb17f6bea2
+SHA256: 66acb13c8bd878a80289c645fd6bd2c8ba5167c06cc5c8ea92ce716bdd008309
+Section: Tweaks
+Description: Slide to unlock for iOS 11 and 12.
+Author: Nepeta
+Name: Slyd (SlideToUnlock)
+
+Package: xyz.skitty.sixls
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 2260
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0), firmware(>= 12.2) | org.swift.libswift (>= 5.0)
+Filename: ../../../../debs/xyz.skitty.sixls_1.1_iphoneos-arm64.deb
+Size: 1472466
+MD5sum: 04bdd7050ac79bc771625c6137826de7
+SHA1: d019ff837c8ece5a45426ca161b542ad234321c1
+SHA256: feece7d25888ce5081fad0ad3545f9fbdc3af3d7ebe59b714e3a0cbe1a1edfce
+Section: Tweaks
+Description: iOS 6 Style Lock Screen!
+Author: Skitty
+Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls
+Icon: https://skitty.xyz/repo/icons/xyz.skitty.sixls.png
+Name: Six (LS)
+Sileodepiction: https://skitty.xyz/repo/depictions/xyz.skitty.sixls/sileo.json
+
+Package: xyz.willy.zebra
+Version: 1.1.36
+Architecture: iphoneos-arm64
+Maintainer: Zebra Team <team@getzbra.com>
+Installed-Size: 6992
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ../../../../debs/xyz.willy.zebra_1.1.36_iphoneos-arm64.deb
+Size: 3616770
+MD5sum: c1c8b8e34c2c487e3cdc0777e56d75c3
+SHA1: f523952806f971e44420114cef818a6c0554551f
+SHA256: 91900ce44684a2b163b0f887609fff95e3296f58d35b82a83ebb351d46b01052
+Section: Packaging
+Description: A Useful Package Manager
+Tag: compatible::9.0-16.6
+Author: Zebra Team <team@getzbra.com>
+Depiction: https://getzbra.com/repo/depictions/xyz.willy.Zebra/
+Icon: file:///Applications/Zebra.app/AppIcon60x60@3x.png
+Name: Zebra
+Support: https://getzbra.com/repo/depictions/xyz.willy.Zebra/bug_report.html
+

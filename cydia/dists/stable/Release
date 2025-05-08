@@ -1,0 +1,8 @@
+Origin: Katzy's Repo
+Label: Katzy's Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architecture: iphoneos-arm
+Components: main
+Description: I archive all debs I found for the future :D (I create my owns debs soon)
