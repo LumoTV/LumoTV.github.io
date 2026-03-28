@@ -652,6 +652,23 @@ Homepage: http://www.gnu.org/software/findutils/
 Description: indexes and searches filesystems
 Name: Find Utilities
 
+Package: gettext
+Version: 0.17-7
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 3336
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses
+Filename: ./debs/gettext_0.17-7_iphoneos-arm.deb
+Size: 768352
+MD5sum: 9e48b67c077de8eff4ab17e2008a157a
+SHA1: f237be39156e580a56372e6319c213be09b1f77e
+SHA256: bb58396c9323b3d72e4526d9e1266c453a3000a0b0c6b12aff61b602e451427a
+Section: System
+Priority: optional
+Homepage: http://www.gnu.org/software/gettext/
+Description: internationalization helper for strings
+
 Package: gnupg
 Version: 1.4.8-4
 Architecture: iphoneos-arm
@@ -941,6 +958,20 @@ Priority: standard
 Description: standard Apple authentication modules
 Name: PAM Modules
 
+Package: png
+Version: 1.2.24-3
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 692
+Filename: ./debs/png_1.2.24-3_iphoneos-arm.deb
+Size: 259150
+MD5sum: dc0f2be05c709d4c248ce643b8ab1909
+SHA1: a92bf82c52d869a711e989955c8fb28920b6b9dc
+SHA256: d8f21fff0d6e0ed012b19283356c61bbb27ecd00db59fa279179bb2eda01e20b
+Section: Multimedia
+Priority: optional
+Description: library for manipulating PNG files
+
 Package: preferenceloader
 Version: 2.2.6
 Architecture: iphoneos-arm
@@ -1125,6 +1156,41 @@ SHA256: 04329d078f3394dbb72abe9f19c893a178ecc22704342efbedf0c9021a9cbdf8
 Section: Archiving
 Priority: important
 Description: de-compesses files in zip format
+
+Package: wget
+Version: 1.16-4
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 480
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: gettext, openssl
+Filename: ./debs/wget_1.16-4_iphoneos-arm.deb
+Size: 210290
+MD5sum: 9221072b359a2c526e0f07467d30cc10
+SHA1: 784a5c74d502f51c2bd0f8278315e99aa196b49d
+SHA256: e35a50a6e4d9be59c46b822062c2aead1fe48512bb2fd4b6c8e646b8de08bd64
+Section: Networking
+Priority: important
+Description: simple HTTP file transfer client
+
+Package: xpwn
+Version: 1247875200-1
+Architecture: iphoneos-arm
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Installed-Size: 468
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: openssl, png
+Filename: ./debs/xpwn_1247875200-1_iphoneos-arm.deb
+Size: 67870
+MD5sum: 45555ac749e5979fcfb2d5f630655ba3
+SHA1: 2a76a82c00a4549b877dd53c598a64793deaa493
+SHA256: e0d5cde22a02d865de64988302fa42c18bf058ed3dc6a8b31132f0d804da501d
+Section: Archiving
+Priority: optional
+Homepage: http://github.com/planetbeing/xpwn/tree/master
+Description: portable, barebones PwnageTool implementation
+Author: planetbeing <planetbeing@gmail.com>
+Name: XPwn
 
 Package: xyz.skitty.sixls
 Version: 1.1
